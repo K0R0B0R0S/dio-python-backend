@@ -1,4 +1,4 @@
-# Sistema Bancário v1
+# Sistema Bancário v2 --- READ ME DESATUALIZADO
 
 Bem-vindo à primeira versão do sistema bancário! Este projeto implementa um conjunto básico de funcionalidades bancárias, incluindo saque, depósito e extrato.
 
